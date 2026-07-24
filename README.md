@@ -7,7 +7,7 @@ The game features a pixel-art university theme, multiple characters, moving plat
 
 # Screenshots
 
-<p align="center"> <img src="Screenshots/image_1.png" width="32%" alt="CHASE Screenshot 1"> <img src="Screenshots/image_2.png" width="32%" alt="CHASE Screenshot 2"> <img src="Screenshots/image_3.png" width="32%" alt="CHASE Screenshot 3"> </p>
+<p align="center"> <img src="image_1.png" width="32%" alt="CHASE Screenshot 1"> <img src="image_2.png" width="32%" alt="CHASE Screenshot 2"> <img src="image_3.png" width="32%" alt="CHASE Screenshot 3"> </p>
 
 ## Built With
 
