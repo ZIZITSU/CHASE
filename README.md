@@ -4,6 +4,11 @@
 
 The game features a pixel-art university theme, multiple characters, moving platforms, collectibles, obstacles, sound effects, background music, yearly progression, and a final graduation ceremony.
 
+
+# Screenshots
+
+<p align="center"> <img src="Screenshots/image_1.png" width="32%" alt="CHASE Screenshot 1"> <img src="Screenshots/image_2.png" width="32%" alt="CHASE Screenshot 2"> <img src="Screenshots/image_3.png" width="32%" alt="CHASE Screenshot 3"> </p>
+
 ## Built With
 
 * C
