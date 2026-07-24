@@ -4,7 +4,7 @@
 
 The game features a pixel-art university theme, multiple characters, moving platforms, collectibles, obstacles, sound effects, background music, yearly progression, and a final graduation ceremony.
 
-Download: https://mahir-labib.itch.io/partyjam
+Download: https://mahir-labib.itch.io/chase
 
 # Screenshots
 
